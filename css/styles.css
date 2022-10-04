@@ -65,7 +65,7 @@ body {
 .main-index {
     color: #ffffff;
     background-color: #000000;
-    background-image: url("/img/index-bg.jpg");
+    background-image: url("../img/index-bg.jpg");
     background-size: 100% auto;
     background-repeat: no-repeat;
 }
@@ -84,7 +84,7 @@ body {
 .index-columns {
     color: #242424;
     background-color: #fbf7f4;
-    background-image: url("/img/bg-noisy.png");
+    background-image: url("../img/bg-noisy.png");
 }
 
 .services {
@@ -171,7 +171,7 @@ body {
     font-weight: 700;
     color: #ffffff;
     background-color: #242424;
-    background-image: url("/img/bg-noisy.png");
+    background-image: url("../img/bg-noisy.png");
     background-repeat: repeat;
 }
 
