@@ -78,7 +78,7 @@ body {
 .button-all,
 .button-next {
     padding-right: 44px;
-    background-image: url("/img/arrow-right.svg");
+    background-image: url("../img/arrow-right.svg");
     background-repeat: no-repeat;
     background-size: 16px 16px;
     background-position: center right 20px;
@@ -434,7 +434,7 @@ body {
     background-color: #000;
     border: none;
     cursor:  pointer;
-    background-image: url(/img/arrow-left.svg);
+    background-image: url("../img/arrow-left.svg");
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -605,7 +605,7 @@ margin: 0 4px;
     padding: 0;
     background-color: transparent;
     border: none;
-    background-image: url("/img/info.svg");
+    background-image: url("../img/info.svg");
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -767,7 +767,7 @@ margin: 0 4px;
 .newsletter-button {
     width: 56px;
     height: 44px;
-    background-image: url("/img/arrow-right.svg");
+    background-image: url("../img/arrow-right.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 16px 16px;
@@ -812,7 +812,7 @@ margin: 0 4px;
     height: 44px;
     background-color: #ffffff;
     border: none;
-    background-image: url("/img/close.svg");
+    background-image: url("../img/close.svg");
     background-repeat: no-repeat;
     background-position: center;
     cursor: pointer;
@@ -898,15 +898,15 @@ margin: 0 4px;
 }
 
 .footer-social-tw {
-    background-image: url("/img/social-tw.svg");
+    background-image: url("../img/social-tw.svg");
 }
 
 .footer-social-vk {
-    background-image: url("/img/social-vk.svg");
+    background-image: url("../img/social-vk.svg");
 }
 
 .footer-social-instagram {
-    background-image: url("/img/social-instagram.svg");
+    background-image: url("../img/social-instagram.svg");
 }
 
 .inner-header-title {
@@ -1149,7 +1149,7 @@ margin: 0 4px;
     font-weight: 700;
     background-color: #FFFFFF;
     border: 2px solid #242424;
-    background-image: url("/img/arrowK.svg");
+    background-image: url("../img/arrowK.svg");
 
     background-repeat: no-repeat;
     background-position: right 16px center;
@@ -1323,14 +1323,14 @@ margin: 0 4px;
 }
 
 .pagination-prev {
-    background-image: url("/img/arrow-left.svg");
+    background-image: url("../img/arrow-left.svg");
     background-position: center;
     background-size: 16px 16px;
     background-repeat: no-repeat;
 }
   
 .pagination-next {
-    background-image: url("/img/arrow-right.svg");
+    background-image: url("../img/arrow-right.svg");
     background-position: center;
     background-size: 16px 16px;
     background-repeat: no-repeat;
@@ -1384,7 +1384,7 @@ margin: 0 4px;
 
 .popover-cart .popover-close-button {
     padding-left: 44px;
-    background-image: url("/img/cart-popover.svg");
+    background-image: url("../img/cart-popover.svg");
     background-repeat: no-repeat;
     background-position: 22px center;
 }
