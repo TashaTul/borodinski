@@ -786,7 +786,7 @@ margin: 0 4px;
 }
 
 .newsletter {
-    max-width: 300px;
+    min-width: 300px;
 }
 
 .newsletter-form {
